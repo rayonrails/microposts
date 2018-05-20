@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "body": "Something to say Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "body": "This is post two"
+    },
+    {
+      "id": 2,
+      "title": "Post 3",
+      "body": "Something to say Post 3"
+    },
+    {
+      "title": "Post 4",
+      "body": "Hello World",
+      "id": 3
+    },
+    {
+      "title": "Post 5",
+      "body": "Show Alert",
+      "id": 4
+    },
+    {
+      "title": "Post 6",
+      "body": "Hello World",
+      "id": 5
+    },
+    {
+      "title": "Post 7",
+      "body": "Hello world",
+      "id": 6
+    }
+  ]
+}
